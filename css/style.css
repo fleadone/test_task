@@ -587,6 +587,9 @@ progress::-moz-progress-bar {
     .mobile_menu li a {
       font-size: 3em; }
 
+  .sub_menu {
+    display: none !important; }
+
   .search {
     display: none; }
 
